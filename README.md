@@ -42,36 +42,6 @@ I'm a **Developer Advocate** & **Educator @TrainWithShubham** specializing in **
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://static.cdnlogo.com/logos/m/57/microsoft-azure.svg" alt="azure" width="40" height="40"/>
-
-  <!-- Bash / Shell Scripting -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/>
-
-  <!-- Vagrant -->
-  <img src="https://www.svgrepo.com/show/354163/vagrant.svg" alt="vagrant" width="40" height="40"/>
-
-  <!-- GitHub -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/>
-
-  <!-- VS Code -->
-  <img src="https://raw.githubusercontent.com/microsoft/vscode-icons/main/icons/file_type_vscode.svg" alt="vscode" width="40" height="40"/>
-
-  <!-- Linux -->
-  <img src="https://www.svgrepo.com/show/452054/linux.svg" alt="linux" width="40" height="40"/>
-
-  <!-- JSON -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="json" width="40" height="40"/>
-
-  <!-- YAML -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Official_YAML_Logo.svg" alt="yaml" width="40" height="40"/>
-
-  <!-- Maven -->
-  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
-
-  <!-- Node.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-
-  <!-- GitOps (this is more conceptual—using Git logo as a stand-in) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="gitops" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
